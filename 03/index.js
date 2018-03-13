@@ -25,4 +25,14 @@ calc.onclick = function(){
     document.getElementById('tx1').innerHTML = "";
     document.getElementById('tx2').innerHTML = "";
   }
+
+  if(width.value ==''){
+    document.getElementById('width_err').innerHTML="宽度不能为空"
+  }
+  if(height.value == ''){
+    document.getElementById('height_err').innerHTML="高度不能为空"
+  }
+    
 }
+
+
