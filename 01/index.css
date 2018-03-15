@@ -1,7 +1,4 @@
-#menu{
-  width:300px;
-  height:auto;
-}
+
 #rectangle{
   width:500px;
   margin:0 auto;
@@ -9,14 +6,4 @@
 #tx1,#tx2{
   color:red;
 }
-a{
-  text-decoration:none;
-  font-size:28px;
-  font-weight:bold;
-  color:black;
-  line-height:40px;
-}
-ul li{
-  display:block;
-  line-height:40px;
-}
+
